@@ -1,0 +1,14 @@
+[package]
+name = "rust-first-sort-i"
+version = "0.1.0"
+authors = ["Victor Azadinho Miranda <victorazadinho@pm.me>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+clap = "2.33.3"
+crossbeam = "0.8.0"
+itertools = "0.10.0"
+num = "0.4.0"
+parking_lot = "0.11.1"
